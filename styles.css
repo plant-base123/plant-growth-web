@@ -1,0 +1,15 @@
+h1{color: green;}
+img{width:300px;}
+body{text-align:center;background-color: rgb(216, 250, 216);}
+body>div{background-color: white;
+    width:500px;
+    margin:auto;
+    padding: 20px;
+    border-radius:15px;}
+button{background:linear-gradient( #5c3317, #a65f32, #6b3a1e) ;
+       width: 150px;
+       border-radius: 20px;
+       display: block
+       margin:0 auto;}
+textarea{display: block;
+         margin: 0 auto 15px;}
